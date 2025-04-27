@@ -1,1 +1,0 @@
-# Intuji-QA-Associate-Challenges
